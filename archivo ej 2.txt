@@ -1,1 +1,2 @@
 3- No está porque no fue hecho el git push todavia, unicamente se hizo git commit 
+5- No está aplicado localmente porque aun no hice el git pull
