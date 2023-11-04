@@ -1,4 +1,8 @@
 3- No está porque no fue hecho el git push todavia, unicamente se hizo git commit 
 5- No está aplicado localmente porque aun no hice el git pull
+<<<<<<< HEAD
 
 modificacion local de la actividad7
+=======
+7-Modificacion de la actividad 7
+>>>>>>> 5f0f63154049ec790831d7b2c2ab5101f25b0a5e
